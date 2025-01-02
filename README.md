@@ -1,0 +1,2 @@
+# PHP's `trigger_error` function and unexpected results
+This example shows a common pitfall in PHP when using the `trigger_error` function. The script continues executing even after an error is triggered, potentially producing incorrect results.  The solution demonstrates how to properly handle errors for more robust code.
